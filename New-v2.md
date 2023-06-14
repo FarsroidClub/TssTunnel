@@ -1,24 +1,1 @@
-{
-"Title": "فیلترشکن مخصوص اینستاگرام 😁",
-"Description": "چطوری گلم ؟ میگم اگه اینستات بالا نمیاد یا سرعتش کمه بیا فیلترشکن و پروکسی مخصوصشو دانلود کن تا راحت شی 😎❤️",
-"Link": "tg://join?invite=s5eRrhY43W5hYmFk",
-"ColorWave": "#A600FF",
-"Color": "#a600ff",
-"ColorWaveTwo": "#9F2BDC",
-"ColorBackGround": "#ffffff",
-"TitleGravity": "center",
-"MessageGravity": "right",
-"ColorMessage": "#ff323232",
-"ColorTitle": "#ff111111",
-"ColorBtn": "#ffffff",
-"ColorBtnBg": "#00a043",
-"ColorBtnCancell": "#ffffff",
-"ColorBtnCancellBg": "#e90000",
-"Cancellable": "true",
-"MessageID": "1945",
-"ShowTime": "3",
-"Button": " دانلود فیلترشکن اینستا ",
-"ButtonCancell": " میخرم ",
-"Closure": "true",
-"Show": "on"
-}
+
